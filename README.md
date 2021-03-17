@@ -12,7 +12,7 @@ Entrega para el día lunes 22/03/2021
 1. Clonar el repo 
 2. Inicializar su repo  (opcional) npm install 
 3. Verificar los test (opcional) npm run teset 
-4. Crear Rama feature/HT3_Carnet --> (ejemplo)   /feature/t2_2021111111
+4. Crear Rama feature/HT3_Carnet --> (ejemplo)   /feature/HT3_2021111111
 
 5. Crear sobre la raiz una clase con su carné.js (al mismo nivel de app.js)
     5.1 Crear 5 funciones. (Sean creativos)
@@ -26,5 +26,6 @@ Entrega para el día lunes 22/03/2021
     - git push
 
 8. Realizar Merge Request (no Merge con la master)
+9. Entregar en UEDi, en el apartado de Hoja de Trabajo #3, una captura de pantalla donde se vea que estan en su rama feature.
 
 //END
